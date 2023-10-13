@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<FTP>
+		<ServInfo ServName="ftp2.teac.co.jp" ServIpaddr="172.20.233.40" />
+		<UserInfo Uid="dta_ftp" Pwd="JDZDx5cb" />
+	</FTP>
+	<Send>
+		<TO Mail="davische@teac.com.cn" Name="电脑课 程建红"/>
+		<CC Mail="cjh@teac.com.cn" Name="DTA IT Support"/>
+		<FR Mail="itsup@teac.com.cn" Name="序列号DB系统" Pwd="ydD86nVc"/>
+		<SU Subject="[序列号DB系统] 数据上传完成"/>
+	</Send>
+
+</Root>
