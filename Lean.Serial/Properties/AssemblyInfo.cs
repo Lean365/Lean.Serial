@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Lean.Serial")]
 [assembly: AssemblyDescription("序列号上传")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TEAC")]
+[assembly: AssemblyCompany("Lean365.Inc")]
 [assembly: AssemblyProduct("Lean.Serial")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
